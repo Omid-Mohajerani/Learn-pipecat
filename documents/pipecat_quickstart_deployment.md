@@ -11,6 +11,7 @@ This guide documents how to deploy the [Pipecat](https://github.com/pipecat-ai/p
 - **OS:** Debian (fresh install)
 
 This is just a sample that Im using during the docuemntation so it may not work. Change it with your own info
+
 ---
 
 ## 📦 1. Install Required Packages
